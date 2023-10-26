@@ -94,6 +94,7 @@ header .container .menu-nav a:hover{
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
+    overflow: hidden;
 }
 
 #hero .container{
